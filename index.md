@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: Life is beautiful~
 layout: page
 ---
 
