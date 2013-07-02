@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: 毕业月历
+title: 再见了，华中科技大学
 ---
 
 论文答辩…
