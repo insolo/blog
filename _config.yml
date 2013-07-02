@@ -1,6 +1,5 @@
 baseurl: /
 markdown: rdiscount
-permalink: /:year/:month/:day/:title/
 url: http://insolo.net
 author: Phenix Zhong
 pygments: true
