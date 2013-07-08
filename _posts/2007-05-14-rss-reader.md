@@ -3,7 +3,7 @@ layout: post
 title: 扫盲教程之抢沙发！
 ---
 
-老实不客气的说，这是写给菜鸟看的^_^
+老实不客气的说，这是写给菜鸟看的。
 
 我约略统计一下，及时了解一个blog的更新并成功的抢到沙发，大概有不少于四种的方法，下面就一一介绍一下。
 
@@ -13,6 +13,6 @@ title: 扫盲教程之抢沙发！
 
 接下来介绍一下通过rss阅读blog更新的具体方法。
 
-* 通过第三方网站订阅：有很多网站提供rss订阅服务，其中以Google Reader，Blogline，Rojo，zhuaxia等几家比较流行（最后一家为中文网站）。本人现在使用的是Google Reader，以我的blog为例，讲解一下具体操作步骤：首先你需要注册一个google账户，登录，然后进入Google reader首页，经过几个简单的确认步骤进入操作界面,在左侧找到Add subscription按钮，然后在本人blog的右下角找到本站的Rss地址，复制粘贴然后确认就行了。ps:将http://riends.cn/aggregator/opml文件保存到桌面，然后点击Google Reader左下的Manage subscriptions选择Import/Export将文件导入即可通过一次操作订阅所有Riends.cn上的blog了^_^。
+* 通过第三方网站订阅：有很多网站提供rss订阅服务，其中以Google Reader，Blogline，Rojo，zhuaxia等几家比较流行（最后一家为中文网站）。本人现在使用的是Google Reader，以我的blog为例，讲解一下具体操作步骤：首先你需要注册一个google账户，登录，然后进入Google reader首页，经过几个简单的确认步骤进入操作界面,在左侧找到Add subscription按钮，然后在本人blog的右下角找到本站的Rss地址，复制粘贴然后确认就行了。ps:将http://riends.cn/aggregator/opml文件保存到桌面，然后点击Google Reader左下的Manage subscriptions选择Import/Export将文件导入即可通过一次操作订阅所有Riends.cn上的blog了。
 * 通过软件订阅：有许多免费的软件可以在本地订阅Rss，譬如Greatnews，FeedDemon等，如果你用的是遨游浏览器，它似乎自带的就有这个功能，其它如Foxmail之类的pop邮件客户端也带有rss订阅的功能，这种方法实时性，不过前提是你能够访问别人的Rss地址。ps：许多blog的Rss都是通过第三方网站处理过的，有些在国外，教育网无法访问的。
-* 通过邮件订阅：在emailrss网站填写你的邮件地址和需要订阅的rss地址，它就会在每次有更新时将更新内容发到你的邮箱，也是一个不错的方法。ps:如果你想用邮件订阅本人的blog就不用这么麻烦了，给我说一声或者在这里添上你的邮箱地址就搞定了^_^
+* 通过邮件订阅：在emailrss网站填写你的邮件地址和需要订阅的rss地址，它就会在每次有更新时将更新内容发到你的邮箱，也是一个不错的方法。ps:如果你想用邮件订阅本人的blog就不用这么麻烦了，给我说一声或者在这里添上你的邮箱地址就搞定了
