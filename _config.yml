@@ -1,5 +1,5 @@
-baseurl: /blog
+baseurl: /
 markdown: rdiscount
-url: http://feis.co/blog
+url: 
 author: Phenix Zhong
 pygments: true
